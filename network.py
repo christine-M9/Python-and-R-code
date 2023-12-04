@@ -49,4 +49,4 @@ plt.show()
 plt.savefig('transport_network.pdf')
 
 # Confirming that the figure is saved using print statement(for python).
-print("The transit network plot has been saved as transport_network.pdf.")
+print("The transport network plot has been saved as transport_network.pdf.")
