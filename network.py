@@ -42,8 +42,8 @@ plt.show()
 
 # Suggestions in transport network improvements.
 
-# - Explore the possibility of adding express lines.
-# - Evaluate transfer points for potential commuter experience improvements.
+# - Explore the possibility of adding express lines that connect key stations on different lines, allowing passengers to travel between distant locations without multiple transfers.
+# - Improve interchange facilities at major transfer points by providing better signage, amenities, and streamlined connections between lines.
 
 # Saving the network plot to PDF
 plt.savefig('transport_network.pdf')
